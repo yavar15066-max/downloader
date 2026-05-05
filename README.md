@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [Release_x64](https://github.com/Artin718/downloader/tree/main/downloads/Release_x64)
+
+---
