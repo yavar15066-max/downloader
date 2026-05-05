@@ -77,8 +77,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [Release_x64](https://github.com/Artin718/downloader/tree/main/downloads/Release_x64)
+1. [Release_x64](https://github.com/yavar15066-max/downloader/tree/main/downloads/Release_x64)
+
+2. [Release_x64_sky_21217](https://github.com/yavar15066-max/downloader/tree/main/downloads/Release_x64_sky_21217)
 
 ---
