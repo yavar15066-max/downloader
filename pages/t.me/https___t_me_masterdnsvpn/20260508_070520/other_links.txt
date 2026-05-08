@@ -1,0 +1,10 @@
+//telegram.org/
+//telegram.org/css/bootstrap.min.css?3
+//telegram.org/css/font-roboto.css?1
+//telegram.org/css/telegram.css?249
+//telegram.org/dl?tme=f1fc3430d3f7864893_12156447234822223683
+//telegram.org/img/website_icon.svg?4
+//telegram.org/js/tgwallpaper.min.js?3
+/css/myriad.css
+/s/masterdnsvpn
+tg://resolve?domain=masterdnsvpn
