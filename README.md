@@ -81,14 +81,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [Release_x64](https://github.com/yavar15066-max/downloader/tree/main/downloads/Release_x64)
-
-2. [Release_x64_sky_21217](https://github.com/yavar15066-max/downloader/tree/main/downloads/Release_x64_sky_21217)
-
-3. [Seelen.UI_2.6.4.0_x64](https://github.com/yavar15066-max/downloader/tree/main/downloads/Seelen.UI_2.6.4.0_x64)
-
-4. [Seelen.UI_2.6.4_x64-setup-fixed](https://github.com/yavar15066-max/downloader/tree/main/downloads/Seelen.UI_2.6.4_x64-setup-fixed)
+1. [GooseRelayVPN-client-v1.6.0-windows-amd64](https://github.com/yavar15066-max/downloader/tree/main/downloads/GooseRelayVPN-client-v1.6.0-windows-amd64)
 
 ---
