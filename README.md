@@ -83,8 +83,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [GooseRelayVPN-client-v1.6.0-windows-amd64](https://github.com/yavar15066-max/downloader/tree/main/downloads/GooseRelayVPN-client-v1.6.0-windows-amd64)
+1. [MasterDnsVPN-GG-1.0.9-universal](https://github.com/yavar15066-max/downloader/tree/main/downloads/MasterDnsVPN-GG-1.0.9-universal)
 
 ---
