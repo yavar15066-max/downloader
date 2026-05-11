@@ -85,8 +85,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [MasterDnsVPN-GG-1.0.9-universal](https://github.com/yavar15066-max/downloader/tree/main/downloads/MasterDnsVPN-GG-1.0.9-universal)
+
+2. [MasterDnsVPN_Client_Windows_ARM64](https://github.com/yavar15066-max/downloader/tree/main/downloads/MasterDnsVPN_Client_Windows_ARM64)
 
 ---
